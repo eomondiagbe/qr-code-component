@@ -1,0 +1,43 @@
+body {
+  background-color: #d6e2f0;
+  text-align: center;
+}
+
+h3 {
+  color: #1f3251;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  position: relative;
+  top: 3%;
+  left: 4.5%;
+  width: 90%;
+}
+
+p{
+  color: #7b879d;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  position: relative;
+  top: 2%;
+  left: 8.7%;
+  width: 80%;
+}
+
+.main-content {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 65%;
+  position: absolute;
+  left: 40.25%;
+  top: 18%;
+  width: 20%;
+}
+
+.qr-code {
+  border-radius: 20px;
+  height: 55%;
+  position: relative;
+  top: 3%;
+  width: 90%;
+}
